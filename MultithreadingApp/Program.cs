@@ -4,7 +4,7 @@ namespace MultithreadingApp
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Mainx(string[] args)
         {
             Console.WriteLine("Hello World!");
         }
